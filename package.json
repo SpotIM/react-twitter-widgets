@@ -1,5 +1,5 @@
 {
-  "name": "react-twitter-widgets",
+  "name": "@spotim/react-twitter-widgets",
   "version": "1.8.1",
   "description": "Twitter widgets as React components",
   "main": "dist/index.js",
